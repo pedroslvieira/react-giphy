@@ -11,7 +11,7 @@ module.exports = {
       template: '!!html-loader!templates/index.html'
     })
   ],
-  devtool: 'source-map',
+  devtool: 'sourcemap',
   mode: "development",
   module: {
     rules: [
